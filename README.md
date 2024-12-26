@@ -1,1 +1,1 @@
-# Estadistica-Basica
+# Estadística Básica
